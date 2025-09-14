@@ -1,6 +1,12 @@
 # ENDOSCAN-VLM
 Project 
 
+# Keer's-Host
+
+https://github.com/keerthanaapillaram/ENDOSCAN-VLM    
+Repo name:**"ENDOSCAN-VLM"**  
+TITLE: "ENDOSCAN-VLM: Vision-Language Model for Multimodal Detection"
+
 
 ## Procedure for EndoScan-VLM: Vision-Language Model for Multimodal Detection of Endometriosis
 ### 1. Problem Definition
